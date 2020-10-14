@@ -1,0 +1,214 @@
+body{
+    margin: 0 120px;
+    padding: 0;
+}
+.school_badge{
+    width: 90px;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 1px;
+    float: left;
+}
+.name{
+    float: left;
+    margin: 0;
+
+}
+h1{
+    padding: 0 90px 0 0;
+    font-size: 40px;
+    margin: 30px 0 0 0;
+    color: #027DB4;
+}
+p{
+    margin-top: 0px;
+    color: #AAAAAA;
+    font-size: 14px;
+}
+.box{
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+    width: 190px;
+    height: 30px;
+    background: #CEE0E8;
+    border: 1px solid #797979;
+}
+input::-webkit-input-placeholder {
+    /* placeholder字体大小 */
+    font-size: 20px;
+}
+.box input{
+    float: left; /* 左浮动 */
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    background: #CEE0E8;
+    border: 0px;
+}
+.search_btn{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    float: right;
+    height: 30px;
+    width: 40px;
+    background: #CEE0E8;
+}
+.box img{
+    float: right;
+    margin: 5px 10px;
+    height: 20px;
+}
+.button{
+    float: left;
+    width: 100%;
+}
+.button button{
+    width: 11%;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    border-radius: 5px;
+}
+.button button:nth-child(1){
+    background: #027DB4;
+    float: left;
+    margin: 0 0 0 8px;
+}
+.button button:nth-child(2){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(3){
+    background: #81BED7;
+    float: left;
+}
+.button button:nth-child(4){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(5){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(6){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(7){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(8){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(9){
+    background: #027DB4;
+    float: left;
+}
+.button a{
+    color: #ffffff;
+    display: block;
+    font-size: 20px;
+    /* 去掉下划线 */
+    text-decoration: none;
+}
+/*设置鼠标移入效果*/
+.button button:hover{
+    background-color: #81BED7;
+}
+.content{
+    float: left;
+    width: 97%;
+    height: 555px;
+    margin: 20px 20px 10px;
+    background: #F2F2F2;
+}
+h2{
+    float: left;
+    width: 100%;
+    font-size: 35px;
+    color: #027DB4;
+    margin: 20px 40px;
+}
+/* .manage button{
+    float: right;
+    background-color: #169BD5;
+    width: 100px;
+    height: 30px;
+    margin: 30px 50px;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    border-radius: 5px;
+}
+.manage a{
+    color: #ffffff;
+    display: block;
+    font-size: 20px;
+    text-decoration: none;
+}  */
+.list{
+    float: left;
+    width: 95%;
+}
+.list a{
+    color: #797979;
+    display: block;
+    font-size: 22px;
+    /* 去掉下划线 */
+    text-decoration: none;
+}
+li{
+    border-bottom: 1px solid #81BED7;
+    margin-left: 20px;
+}
+
+.bottom{
+    float: left;
+    margin: 0 20px;
+    width: 97%;
+    height: 200px;
+    background: #CEE0E8;
+}
+.ztlm{
+    float: left;
+    width: 25%;
+    margin: 0;
+}
+.ptjs{
+    float: left;
+    width: 25%;
+    margin: 0;
+}
+.kslj{
+    float: left;
+    width: 25%;
+    margin: 0;
+}
+.lxfs{
+    float: right;
+    width: 25%;
+    margin: 0;
+}
+h3{
+    font-size: 18px;
+    margin: 10px;
+}
+.bottom a{
+    display: block;
+    /* 去掉下划线 */
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 30px;
+    color: #555555;
+}
+.lxfs p{
+    font-size: 15px;
+    color: #333333;
+    margin-left: 30px;
+}
