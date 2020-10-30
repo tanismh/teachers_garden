@@ -1,0 +1,45 @@
+.bottom{
+    float: left;
+    margin: 0 10px 10px 10px;
+    width: 98%;
+    height: 185px;
+    background: #CEE0E8;
+}
+.ztlm{
+    float: left;
+    width: 22%;
+    margin: 0;
+}
+.ptjs{
+    float: left;
+    width: 22%;
+    margin: 0;
+}
+.kslj{
+    float: left;
+    width: 22%;
+    margin: 0;
+}
+.lxfs{
+    float: right;
+    width: 34%;
+    margin: 0;
+}
+h3{
+    font-size: 18px;
+    margin: 10px;
+    color: #555555;
+}
+.bottom a{
+    display: block;
+    /* 去掉下划线 */
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 30px;
+    color: #555555;
+}
+.lxfs p{
+    font-size: 15px;
+    color: #333333;
+    margin:0 0 0 30px;
+}

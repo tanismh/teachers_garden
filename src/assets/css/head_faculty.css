@@ -1,0 +1,127 @@
+body{
+    margin: 0 120px;
+    padding: 0;
+}
+#main{
+    width:1024px;
+    MARGIN-RIGHT: auto;
+    MARGIN-LEFT: auto;
+}    
+.school_badge{
+    width: 90px;
+    height: 90px;
+    margin-top: 20px;
+    margin-left: 1px;
+    float: left;
+}
+.name{
+    float: left;
+    margin: 0;
+}
+h1{
+    padding: 0 90px 0 0;
+    font-size: 30px;
+    margin: 30px 0 0 0;
+    color: #027DB4;
+}
+p{
+    margin-top: 0px;
+    color: #AAAAAA;
+    font-size: 11px;
+}
+.box{
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+    width: 190px;
+    height: 30px;
+    background: #CEE0E8;
+    border: 1px solid #797979;
+}
+input::-webkit-input-placeholder {
+    /* placeholder字体大小 */
+    font-size: 15px;
+}
+.box input{
+    float: left; /* 左浮动 */
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    background: #CEE0E8;
+    border: 0px;
+}
+.search_btn{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    float: right;
+    height: 30px;
+    width: 40px;
+    background: #CEE0E8;
+}
+.box img{
+    float: right;
+    margin: 5px 10px;
+    height: 20px;
+}
+.button{
+    float: left;
+    width: 100%;
+}
+.button button{
+    width: 10.9%;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #797979;
+    text-align: center;
+    border-radius: 5px;
+}
+.button button:nth-child(1){
+    background: #027DB4;
+    float: left;
+    margin: 0 0 0 8px;
+}
+.button button:nth-child(2){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(3){
+    background: #81BED7;
+    float: left;
+}
+.button button:nth-child(4){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(5){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(6){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(7){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(8){
+    background: #027DB4;
+    float: left;
+}
+.button button:nth-child(9){
+    background: #027DB4;
+    float: left;
+}
+.button a{
+    color: #ffffff;
+    display: block;
+    font-size: 20px;
+    /* 去掉下划线 */
+    text-decoration: none;
+}
+/*设置鼠标移入效果*/
+.button button:hover{
+    background-color: #81BED7;
+}
